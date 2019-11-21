@@ -7,10 +7,10 @@ def name=(value)
 end
 def job
 #@job
-self.job
+self
 end
 def job=(value)
 #@job=value
-self.job=value
+self=value
 end
 end
